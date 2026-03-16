@@ -15,9 +15,7 @@
   <i>"I love programming and solving problems "</i>
   <i>
 </div>
-
 ---
-
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hlungwani-kenneth-aa84371b6/)
@@ -29,14 +27,13 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Cpp](https://img.shields.io/badge/Cpp-3776AB?style=for-the-badge&logo=Cpp)
+![C++](https://img.shields.io/badge/Cpp-3776AB?style=for-the-badge&logo=Cpp)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ---
 ## GitHub Stats
-
 
 ![Top Languages](https://github-readme-stats-self-phi-72.vercel.app/api/top-langs/?username=CANEARTH-KENNETH&layout=compact&theme=tokyonight)
 
@@ -47,7 +44,6 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CANEARTH-KENNETH&theme=tokyo-night)
 
 ---
-
 ##  Profile Views
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=CANEARTH-KENNETH&color=blue)
