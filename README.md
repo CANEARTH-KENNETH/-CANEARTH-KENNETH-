@@ -1,4 +1,4 @@
-# -CANEARTH-KENNETH-# I'm Hlungwani Kenneth
+# I'm Hlungwani Kenneth
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Cybersecurity+Enthusiast;AI+for+5G%2F6G+Networks&center=true&width=500&height=50)
 
@@ -13,6 +13,7 @@
   <br>
 
   <i>"I love programming and solving problems "</i>
+  <i>
 </div>
 
 ---
