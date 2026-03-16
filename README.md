@@ -15,14 +15,13 @@
   <i>"I love programming and solving problems "</i>
   <i>
 </div>
----
+
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hlungwani-kenneth-aa84371b6/)
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:hlungwanikenneth01@gmail.com)
 
----
 ##  Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
@@ -48,6 +47,5 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=CANEARTH-KENNETH&color=blue)
 
----
 
  From [CANEARTH-KENNETH](https://github.com/CANEARTH-KENNETH)
